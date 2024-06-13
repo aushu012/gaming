@@ -1,6 +1,5 @@
-Google One subscription was cancelled … Update your payment method to restore your storage subscription
-name: Cl
 
+name: Cl
 on: [push, workflow_dispatch]
 
 jobs:
